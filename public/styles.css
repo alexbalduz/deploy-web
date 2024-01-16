@@ -1,0 +1,18 @@
+button {
+    background-color: rgb(36, 199, 134);
+    border: none;
+    padding: 3px;
+    border-radius: 3px;
+    color: white;
+    cursor: pointer;
+    margin-top: 0.5rem;
+}
+
+#create-task {
+    background-color: rgb(36, 120, 199);
+}
+
+
+button:hover {
+    opacity: 0.8;
+}
